@@ -15,6 +15,7 @@
 			<input type="submit" name="" value="Ingresar">	
 			<input type="reset" name="" value="Limpiar">
 		</form>
+		<a href="window.history.back();"> Volver atras</a>
 		</center>	
 	</div>
 </body>
